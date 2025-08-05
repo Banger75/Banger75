@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banger75&label=Profile%20views&color=0e75b6&style=flat" alt="banger75" /> </p>
 
-- 🔭 I’m currently working on **Agentic AI**
+<h4 align="left">- **🔭 I’m currently working on Agentic AI**<h4>
 
-- ***🌱 I’m currently learning:-***
+- **🌱 I’m currently learning:-**
 - **Agentic AI and AI Agents**
 - **Advanced Machine Learning (with real-world projects)**
 - **Product Analytics & A/B Testing**
@@ -17,7 +17,7 @@
 - **Prompt Engineering & LLM Fine-tuning**
 - **Building expert-level Data Science portfolio projects**
 
-- **💬 Ask me about **Data Analytics | Machine Learning | Power BI | Python | Financial Modeling | AWS | SQL | Advanced Excel | Agentic AI | AI Agents | Data Science Projects | Product Analytics | Career in Data & AI**
+- 💬 Ask me about **Data Analytics | Machine Learning | Power BI | Python | Financial Modeling | AWS | SQL | Advanced Excel | Agentic AI | AI Agents | Data Science Projects | Product Analytics | Career in Data & AI**
 
 - 📫 How to reach me **drpmismohali@gmail.com**
 
