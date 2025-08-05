@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banger75&label=Profile%20views&color=0e75b6&style=flat" alt="banger75" /> </p>
 
+
+<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/> </p>
 <h4 align="left">- **🔭 I’m currently working on Agentic AI**<h4>
 
 - **🌱 I’m currently learning:-**
