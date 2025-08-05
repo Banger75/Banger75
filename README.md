@@ -1,4 +1,4 @@
-![logo](https://github.com/Banger75/Banger75/blob/main/Screenshot%202025-08-05%20184108.png)
+
 <h1 align="center">Hi 👋, I'm Vipan Kumar</h1>
 <h3 align="center">Data Scientist</h3>
 
