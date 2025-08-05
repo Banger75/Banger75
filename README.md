@@ -5,9 +5,27 @@
 
 - 🔭 I’m currently working on **Agentic AI**
 
-- 🌱 I’m currently learning **Everything New**
+- 🌱 I’m currently learning **Agentic AI and AI Agents, Advanced Machine Learning (with real-world projects), Product Analytics & A/B Testing
 
-- 💬 Ask me about **Analytics**
+
+
+
+
+Machine Learning Engineering pipelines
+
+Deep Learning with TensorFlow & PyTorch
+
+Big Data Management (Hadoop, Spark, AWS Glue)
+
+Cloud-based ML with AWS & Azure
+
+Advanced Power BI (Custom visuals, DAX optimization)
+
+Prompt Engineering & LLM Fine-tuning
+
+Building expert-level Data Science portfolio projects**
+
+- 💬 Ask me about **Data Analytics | Machine Learning | Power BI | Python | Financial Modeling | AWS | SQL | Advanced Excel | Agentic AI | AI Agents | Data Science Projects | Product Analytics | Career in Data & AI**
 
 - 📫 How to reach me **drpmismohali@gmail.com**
 
