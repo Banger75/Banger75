@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/> </p>
 <h4 align="left">- **🔭 I’m currently working on Machine Learning**<h4>
 
-- **🌱 I’m currently learning:-**
+- **🌱 I’m currently working on as below-**
 - **Agentic AI and AI Agents**
 - **Advanced Machine Learning (with real-world projects)**
 - **Product Analytics & A/B Testing**
