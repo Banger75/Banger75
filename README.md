@@ -7,22 +7,49 @@
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/> </p>
 <h4 align="left">
 
-- **🌱 I’m currently working on as below-**
-- **Agentic AI and AI Agents**
-- **Advanced Machine Learning (with real-world projects)**
-- **Product Analytics & A/B Testing**
-- **Machine Learning Engineering pipelines**
-- **Deep Learning with TensorFlow & PyTorch**
-- **Big Data Management (Hadoop, Spark, AWS Glue)**
-- **Cloud-based ML with AWS & Azure**
-- **Advanced Power BI (Custom visuals, DAX optimization)**
-- **Prompt Engineering & LLM Fine-tuning**
-- **Building expert-level Data Science portfolio projects**
+-# Hi, I'm Vipan Kumar
 
-- 💬 Ask me about **Data Analytics | Machine Learning | Power BI | Python | Financial Modeling | AWS | SQL | Advanced Excel | Agentic AI | AI Agents | Data Science Projects | Product Analytics | Career in Data & AI**
+### Data Analytics | Data Science | Machine Learning | AI Applications
 
-- 📫 How to reach me **drpmismohali@gmail.com**
+I am a data analytics professional with over 17 years of experience in data management, validation, reporting, and decision support, including large-scale work in the education sector.
 
+My professional experience includes working with data systems covering:
+
+- **19,000+ schools**
+- **2.8 million students**
+- **121,000+ teachers**
+
+I hold a **B.Sc. in Data Science** and combine practical data management experience with Python, SQL, Power BI, statistical analysis, machine learning, and AI application development.
+
+## Technical Skills
+
+**Data Analysis:** Python, Pandas, NumPy, SQL, Advanced Excel, Power Query
+
+**Visualization:** Power BI, Matplotlib, Seaborn, Plotly
+
+**Statistics & Machine Learning:** Hypothesis Testing, Regression, Classification, Forecasting, Model Evaluation, scikit-learn
+
+**AI & LLM Applications:** RAG, LangChain, Qdrant, FastAPI, Local LLMs
+
+**Databases & Cloud:** MySQL, PostgreSQL, AWS, Docker
+
+## Featured Work
+
+- **Machine Learning Projects:** Prediction, classification, forecasting, and fault detection
+- **IMDb SQL Analysis:** Analytical SQL queries and movie-data exploration
+- **Python EDA:** Data cleaning, exploratory analysis, and visualizations
+- **Virtual Teacher AI Assistant:** Multilingual educational assistant using retrieval-augmented generation (portfolio documentation in preparation)
+- **School Meal Management Application:** Data-entry, calculation, and reporting automation (portfolio documentation in preparation)
+
+## Professional Focus
+
+I am interested in applying analytical methods, machine learning, and AI technologies to solve meaningful organizational problems.
+
+**Open to Opportunities:** Data Analyst | Senior Data Analyst | Data Scientist | Business Intelligence Analyst
+
+**Work Preference:** Remote, Hybrid, or On-site | Open to Relocation Across India
+
+**Connect:** [LinkedIn Profile](YOUR_LINKEDIN_URL) | [GitHub Projects](https://github.com/Banger75)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipan-k-datascience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipan k datascience" height="30" width="40" /></a>
