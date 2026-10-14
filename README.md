@@ -5,7 +5,6 @@
 
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/> </p>
-<h4 align="left">
 
 
 
@@ -49,7 +48,7 @@ I am interested in applying analytical methods, machine learning, and AI technol
 
 **Work Preference:** Remote, Hybrid, or On-site | Open to Relocation Across India
 
-**Connect:** [LinkedIn Profile](YOUR_LINKEDIN_URL) | [GitHub Projects](https://github.com/Banger75)
+**Connect:** [LinkedIn Profile]([YOUR_LINKEDIN_URL)](https://linkedin.com/in/vipan-k-datascience) | [GitHub Projects](https://github.com/Banger75)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipan-k-datascience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipan k datascience" height="30" width="40" /></a>
