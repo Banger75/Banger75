@@ -48,7 +48,7 @@ I am interested in applying analytical methods, machine learning, and AI technol
 
 **Work Preference:** Remote, Hybrid, or On-site | Open to Relocation Across India
 
-**Connect:** [LinkedIn Profile]([YOUR_LINKEDIN_URL)](https://linkedin.com/in/vipan-k-datascience) | [GitHub Projects](https://github.com/Banger75)
+**Connect:** [LinkedIn Profile](https://linkedin.com/in/vipan-k-datascience) | [GitHub Projects](https://github.com/Banger75)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vipan-k-datascience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipan k datascience" height="30" width="40" /></a>
