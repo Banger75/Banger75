@@ -32,13 +32,13 @@ I hold a **B.Sc. in Data Science** and combine practical data management experie
 
 **Databases & Cloud:** MySQL, PostgreSQL, AWS, Docker
 
-## Featured Work
+## Featured Projects
 
-- **Machine Learning Projects:** Prediction, classification, forecasting, and fault detection
-- **IMDb SQL Analysis:** Analytical SQL queries and movie-data exploration
-- **Python EDA:** Data cleaning, exploratory analysis, and visualizations
-- **Virtual Teacher AI Assistant:** Multilingual educational assistant using retrieval-augmented generation (portfolio documentation in preparation)
-- **School Meal Management Application:** Data-entry, calculation, and reporting automation (portfolio documentation in preparation)
+- **[Multilingual AI Virtual Teacher](https://github.com/Banger75/multilingual-ai-virtual-teacher):** Textbook-based multilingual AI application using FastAPI, RAG, Qdrant, and locally hosted LLMs. Core English question-answering and response streaming tested locally; speech and avatar features remain in development.
+- **[Machine Learning Projects](https://github.com/Banger75/Machine-Learning):** Notebooks covering supervised learning, evaluation, prediction, and classification.
+- **[IMDb SQL Analysis](https://github.com/Banger75/SQL--IMDB-MOVIES-ANALYSIS):** SQL analysis of movie data.
+- **[Python and Data Analysis](https://github.com/Banger75/Python)** | **[Pandas](https://github.com/Banger75/Pandas)** | **[Visualization](https://github.com/Banger75/Visualization):** Python practice, data manipulation, and charts.
+- **School Meal Management Application:** Flask-based data entry and reporting project; repository not yet published.
 
 ## Professional Focus
 
