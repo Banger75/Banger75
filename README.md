@@ -35,6 +35,7 @@ I hold a **B.Sc. in Data Science** and combine practical data management experie
 ## Featured Projects
 
 - **[Multilingual AI Virtual Teacher](https://github.com/Banger75/multilingual-ai-virtual-teacher):** Textbook-based multilingual AI application using FastAPI, RAG, Qdrant, and locally hosted LLMs. Core English question-answering and response streaming tested locally; speech and avatar features remain in development.
+- **[Customer Churn Prediction & Retention Analytics](https://github.com/Banger75/customer-churn-prediction-retention-analytics):** End-to-end statistical analysis, leakage-aware modeling with Logistic Regression and Random Forest, evaluation, and budget-aware retention targeting on the IBM Telco dataset.
 - **[Machine Learning Projects](https://github.com/Banger75/Machine-Learning):** Notebooks covering supervised learning, evaluation, prediction, and classification.
 - **[IMDb SQL Analysis](https://github.com/Banger75/SQL--IMDB-MOVIES-ANALYSIS):** SQL analysis of movie data.
 - **[Python and Data Analysis](https://github.com/Banger75/Python)** | **[Pandas](https://github.com/Banger75/Pandas)** | **[Visualization](https://github.com/Banger75/Visualization):** Python practice, data manipulation, and charts.
